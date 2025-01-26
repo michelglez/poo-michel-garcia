@@ -1,9 +1,14 @@
 package edu.michel.garcia.actividades.actividad2.process;
+
 import java.util.ArrayList;
 
 public class NumberGenerator {
     /*
      * Genera los numeros pares de 0 al 100
+     * 
+     * @return Regresa una lista con los numeros pares
+     * @throws Usa un bucle "for" para generar los numeros pares
+     * 
      */
 
      public static void generadorNumeros() {
